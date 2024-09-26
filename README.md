@@ -27,7 +27,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/3D-Ecommmerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
+  <a href="https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
   <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
 </div>
 
