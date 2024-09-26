@@ -38,7 +38,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
+  <a href="https://github.com/yusuf-ahmed-5/AI-Customer-Service-ChatBot" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">AI Customer Service Chatbot</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, OllamaLLM, LangChain</i></span>
 </div>
 
