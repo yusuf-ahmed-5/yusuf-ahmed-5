@@ -44,7 +44,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 
 ### Other
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/NASA-Mars-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
+  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
 </div>
 
