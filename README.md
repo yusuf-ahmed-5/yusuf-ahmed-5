@@ -22,7 +22,7 @@ I’m a computer science student from the UK, who is passionate about creating s
 
 ### Web Development
 <div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-s-ahmed/Licence-Key-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
+  <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
