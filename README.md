@@ -18,18 +18,40 @@ I’m a computer science student from the UK, who is passionate about creating s
 <a href="https://www.youtube.com/channel/UCA27kkKbT5etBPYBd070PhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuf creates" height="30" width="40" /></a>
 </p>
 
-## Technical Projects
+## Projects
 
-### Web Development
+### Software Development
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-s-ahmed/Physio-Assignment-Platform" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Automated Physio Rehab Assignment Platform & Patient Database Management</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, SendGridAPI, MySQL, Streamlit, CSS</i></span>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-s-ahmed/Cloud-Data-Migration-Tool" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Cloud-based Data Migration Tool</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, Django, RESTful API, FastAPI, HTML, CSS, React.js, Node.js </i></span>
+</div>
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-ahmed-5/Shopify-Theme-Security-System/tree/main" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">Shopify Licence Key System</a>
   <span style="font-size: 14px; color: #666;">| <i>Python, Flask, JavaScript, SQL, HTML, CSS</i></span>
 </div>
 <div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
 <div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
+</div>
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/yusuf-ahmed-5/3D-Ecommerce-Website" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">3D Interactive E-commerce Website</a>
   <span style="font-size: 14px; color: #666;">| <i>JavaScript, HTML, CSS, Blender</i></span>
 </div>
+
+
+### Data Science
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://github.com/yusuf-ahmed-5/Meta-Data-Analysis" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">A/B Testing & Analysing Meta's Ad Dataset</a>
+  <span style="font-size: 14px; color: #666;">| <i>Python, Pandas, Numpy, R, Excel</i></span>
+</div>
+<div style="height: 5px;"></div> <!-- Adjust the height here for spacing -->
+
 
 ### Machine Learning / AI
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -42,11 +64,8 @@ I’m a computer science student from the UK, who is passionate about creating s
   <span style="font-size: 14px; color: #666;">| <i>Python, OllamaLLM, LangChain</i></span>
 </div>
 
-### Other
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://github.com/yusuf-ahmed-5/NASA-Mars-Rover-Image-Receiver" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; font-size: 14px;">NASA Mars Image Receiver</a>
-  <span style="font-size: 14px; color: #666;">| <i>Python, ThreadPoolExecuter </i></span>
-</div>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -68,14 +87,6 @@ I’m a computer science student from the UK, who is passionate about creating s
 <!-- Spacing adjustment -->
 <div style="margin-bottom: 20px;"></div> <!-- Adjust the margin as needed -->
 
-<h3 align="left">Software:</h3>
-<p align="left"> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs_code" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere_pro" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" alt="after_effects" width="40" height="40"/> </a> 
-</p>
 
 ## 
 
