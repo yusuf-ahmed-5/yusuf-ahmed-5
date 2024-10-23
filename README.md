@@ -1,11 +1,11 @@
 <h2 align="left">💻 Yusuf Salman Ahmed</h2>
 
-<code>Digital Craftsman (Developer/Editor/3D Modeller)</code>
+<code>Software Developer</code>
 <br><br>
-I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, web development, 3D modelling, and video editing. I bring proven experience to each of these fields.
+I’m a computer science student from the UK, who is passionate about creating solutions for real-world problems and offer a broad range of digital services. These include software development, data analysis & web development. I bring proven experience to each of these fields.
 
 
-- 🔭 I’m currently contributing to a physiotherapy clinic startup, where I handle software development, database management, AI/ML engineering, 3D modeling, videography, and video editing.
+- 🔭 I’m currently contributing to a physiotherapy clinic startup, where I handle software development, database management, AI/ML engineering.
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/yusuf-s-ahmed)
 
