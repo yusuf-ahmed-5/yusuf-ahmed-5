@@ -80,9 +80,6 @@ I’m a computer science student from the UK, who is passionate about creating s
 ## 
 
 
-
-##
-
 <h3 align="left">Github Statistics:</h3>
 
 <p align="left"> 
